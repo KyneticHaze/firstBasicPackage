@@ -1,0 +1,28 @@
+{
+  "name": "haze",
+  "version": "1.0.0",
+  "description": "\"İlk paket dosyası\"",
+  "main": "app.js",
+  "scripts": {
+    "toplama": "toplama işlemi",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "calc",
+    "haze"
+  ],
+  "author": "\"Furkan Harmancı\"",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.9.0",
+    "nodemailer": "^6.9.1",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
